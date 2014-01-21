@@ -1,0 +1,6 @@
+lettuce
+lettuce_webdriver
+nose
+termcolor
+mako
+python-owasp-zap-v2
