@@ -18,3 +18,7 @@ sudo yum install http://dcallagh.fedorapeople.org/phantomjs/phantomjs-1.9.0-1.fc
 ```
 
 For other distros and architectures, see the following link: <http://phantomjs.org/download.html>
+
+## Interesting links:
+
+ * Base steps for Webdriver: <https://github.com/bbangert/lettuce_webdriver>
